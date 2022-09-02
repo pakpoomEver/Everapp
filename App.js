@@ -1,18 +1,14 @@
-import React from 'react';
-import { StyleSheet, View } from 'react-native';
-import Navigation from './Navigation';
-
-
-
-
-const Tab = createBottomTabNavigator();
-
-
+import React from "react";
+import { StyleSheet, View } from "react-native";
+import Navigation from "./Navigation/Navigation";
+import { AuthProvider } from "./Navigation/authUser";
 const App = () => {
+  console.disableYellowBox = true;
   return (
-   <Navigation {...props}/>
+    <AuthProvider>
+      <Navigation />
+    </AuthProvider>
   );
-}
-
+};
 
 export default App;

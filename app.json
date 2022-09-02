@@ -4,6 +4,7 @@
     "slug": "EverMiniApp",
     "version": "1.0.0",
     "orientation": "portrait",
+    "privacy": "public",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
@@ -29,6 +30,7 @@
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
-    }
+    },
+    "description": ""
   }
 }

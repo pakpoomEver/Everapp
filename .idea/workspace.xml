@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fd33e03-aa0e-4fc4-9f03-be68109ddf9b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Navigation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Navigation/ChatScreen.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Navigation/HomeScreen.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Navigation/ProfileScreen.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Navigation/SearchScreen.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Navigation/ShowDetailScreen.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/EditScreenInfo.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/StyledText.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Themed.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/__tests__/StyledText-test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants/Colors.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants/Layout.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/useCachedResources.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/useColorScheme.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/NotFoundScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/TabOneScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/TabTwoScreen.tsx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wfCBErlq4wGxtTuLQDaG1sKRs9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fd33e03-aa0e-4fc4-9f03-be68109ddf9b" name="Default Changelist" comment="" />
+      <created>1628840118038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628840118038</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="715" y="151" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629944557094">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="715" y="151" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112/-1080.0.1080.1880@0.0.2048.1112" timestamp="1629944557094" />
+    <state x="905" y="237" width="920" height="600" key="AVDManager" timestamp="1630033530291">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="-514" y="377" width="486" height="1015" key="AVDManager/0.0.2048.1112/-1080.0.1080.1880@-1080.0.1080.1880" timestamp="1629999148523" />
+    <state x="905" y="237" width="920" height="600" key="AVDManager/0.0.2048.1112/-1080.0.1080.1880@0.0.2048.1112" timestamp="1630033530291" />
+    <state x="1146" y="292" key="FileChooserDialogImpl" timestamp="1629944733331">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1146" y="292" key="FileChooserDialogImpl/0.0.2048.1112/-1080.0.1080.1880@0.0.2048.1112" timestamp="1629944733331" />
+    <state x="352" y="214" key="run.anything.popup" timestamp="1628840173474">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="352" y="214" key="run.anything.popup/0.0.2048.1112/-1080.0.1080.1880@0.0.2048.1112" timestamp="1628840173474" />
+  </component>
+</project>
